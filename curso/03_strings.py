@@ -62,3 +62,5 @@ print(language.isnumeric()) # Devuelve bool (False)
 print("1".isnumeric()) # Devuelve bool (True)
 print(language.lower()) # todas en minusculas
 print(language.lower().isupper()) # is es para comprobar devuelve bool (False)
+print(language.startswith("py")) # Empieza con "py" devuelve bool (True)
+print("Py" == "py") # False 
