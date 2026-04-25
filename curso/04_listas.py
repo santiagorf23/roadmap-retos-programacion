@@ -69,6 +69,8 @@ print(my_new_list)
 my_new_list.sort() # Ordena la lista de menor a mayor
 print(my_new_list)
 
+print(my_new_list[1:3])
+
 # my_list = "Hola Python" # Se convierte la lista en tipo str
 # print(my_list)
 # print(type(my_list))
